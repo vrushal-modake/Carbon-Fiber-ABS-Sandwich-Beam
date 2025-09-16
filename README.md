@@ -1,5 +1,3 @@
-# Carbon-Fiber-ABS-Sandwich-Beam
-
 # 💡 Lightweight Carbon Fiber - ABS Sandwich Beam Design
 
 This repository documents the design, analysis, and manufacturing of a lightweight, high-strength composite sandwich beam, capable of supporting a 1600 lbs load. This project was developed for the SAMPE Category H Bridge Competition and features a carbon fiber/epoxy prepreg face sheet with a 3D-printed ABS core.
