@@ -20,15 +20,6 @@ This repository documents the design, analysis, and manufacturing of a lightweig
 - Cost-performance design trade-off
 - Structural test validation
 
-## 📁 Folder Structure Suggestion
-
-- `/CAD_Models` – 3D models of the beam and core
-- `/FEA_Analysis` – Simulation files and results
-- `/Manufacturing_Plan` – Prepreg layup, vacuum bagging steps
-- `/Report` – Final report or summary PDF
-- `/Images` – Design visuals, test photos, etc.
-- `/Docs` – Reference materials and calculations
-
 ## 🧪 Tools Used
 
 - SolidWorks
