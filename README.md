@@ -4,13 +4,13 @@ This repository documents the design, analysis, and manufacturing of a lightweig
 
 ## 🛠️ Project Overview
 
-- **Goal**: Develop a high-performance structural beam with optimized weight and strength.
+- **Goal**: Develop a high-performance structural beam with low weight to strength ratio.
 - **Materials**: 
-  - Carbon fiber/epoxy prepreg (face sheets)
+  - UD Carbon fiber/epoxy prepreg (face sheets)
   - 3D printed ABS (core)
 - **Weight Reduction**: Achieved a 54% weight reduction over the baseline while maintaining structural limits.
 - **Theory Used**: Timoshenko beam theory (analytical) and Finite Element Analysis (FEA) validation.
-- **Manufacturing Method**: Prepreg vacuum bagging chosen through a decision matrix considering strength, cost, and manufacturability.
+- **Manufacturing Method**: Prepreg vacuum bagging chosen through a decision matrix considering availability, cost, and manufacturability.
 - **Reliability Tests**: Thermal warpage modeling and risk analysis validated the design.
 
 ## 📊 Features
@@ -31,8 +31,8 @@ This repository documents the design, analysis, and manufacturing of a lightweig
 
 ## 🧪 Tools Used
 
-- SolidWorks / Fusion360 (CAD)
-- ANSYS / Abaqus / Fusion Simulation (FEA)
+- SolidWorks
+- Abaqus Simulation (FEA)
 - MATLAB / Python (analytical model, Timoshenko theory validation)
 - 3D printing (FDM ABS core)
 - Vacuum bagging setup
@@ -44,12 +44,4 @@ This repository documents the design, analysis, and manufacturing of a lightweig
 - Passed deflection and stress limit criteria
 - Low-cost and manufacturable design
 
-## 👥 Team
-
-- [Your Name]
-- [Team Members]
-
-## 📬 Contact
-
-For more details, or access to the full report and design files, please contact [your email] or raise an issue on this repo.
 
